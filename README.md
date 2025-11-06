@@ -29,9 +29,3 @@ I'm a passionate Software Engineering student currently focusing on backend deve
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mohammed&show_icons=true&locale=en&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohammed&show_icons=true&locale=en)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed) Forms](https://upload.wikimedia.org/wikipedia/commons/3/32/Windows_Forms_Logo.png)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
-
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mohammed&show_icons=true&locale=en&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=mohammed&show_icons=true&locale=en)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed)
